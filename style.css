@@ -10,7 +10,8 @@ body {
       display: flex;
       flex-wap: wap;
       justify-content: space-between;
-      margin-top: 40px;
+      align-items:center;
+      padding: 45px;
 }      
 .cabecalho .logo {
     display: flex;
