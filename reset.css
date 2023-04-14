@@ -7,6 +7,10 @@
 ul {
     list-style: none;
 }
-a { text-decoration: none; }
+
+a {
+    text-decoration: none;
+    color: #0000;
+  }
 
 a:visited:not(.sobre,.cadastrase) { color: black;}
