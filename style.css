@@ -32,14 +32,22 @@ body {
     padding: 10px 5px;
     transition: 0.3s ease-in-out;
 }
-
-ul .sobre {
+.menu li a:hover {
+    background-color: #5BC241;
+    color: #FFFFFF;
+}
+.menu li a.btn {
+    background-color: #5BC241;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+/*ul .sobre {
     background: #5BC241;
     padding-top: 11px;
     padding-bottom: 11px;
     padding-left: 6px;
     padding-right:6px;
-}
+}*/
 
 ul .cadastrase {
     background: #5BC241;
