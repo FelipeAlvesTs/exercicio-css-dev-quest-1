@@ -13,25 +13,22 @@ body {
       align-items:center;
       padding: 45px;
 }      
-.cabecalho .logo {
+.logo {
     display: flex;
     align-items: center;
 }
 
 .logotipo {
  font-size: 2rem;
- margin-left:5.6px;
+ margin-left: 5.6px;
 }    
-.cabecalho .menu{
+
+.menu{
     display:flex;
-    flex-flow: row wap;	       
-}
-.menu ul {
-    display:flex;
-    justify-content: space-between;
-    margin-right: 40px;
+    flex-flow: row wap;
     align-items: center;
 }
+
 ul .sobre {
     background: #5BC241;
     padding-top: 11px;
