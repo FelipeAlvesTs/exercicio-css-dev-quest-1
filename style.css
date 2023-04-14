@@ -28,6 +28,10 @@ body {
     flex-flow: row wap;
     align-items: center;
 }
+.menu li a {
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+}
 
 ul .sobre {
     background: #5BC241;
@@ -46,9 +50,9 @@ ul .cadastrase {
     padding-right: 21px;
 }
     
-li { font-size: 15px;
+/*li { font-size: 15px;
      margin-left: 30px;
-   }
+   }*/
 
 h1 {
  margin-left: 44.41px
