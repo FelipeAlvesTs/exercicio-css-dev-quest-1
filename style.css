@@ -30,6 +30,7 @@ body {
 }
 .menu li a {
     padding: 10px 5px;
+    margin-left: 1.5rem;
     transition: 0.3s ease-in-out;
 }
 .menu li a:hover {
@@ -39,8 +40,8 @@ body {
 .menu li a.btn {
     background-color: #5BC241;
     color: #FFFFFF;
-    border-radius: 10px;
-    margin-left: 10px;
+    border-radius: 1rem;
+    margin-left: 2rem;
 }
 /*ul .sobre {
     background: #5BC241;
